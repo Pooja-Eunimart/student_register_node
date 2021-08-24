@@ -1,0 +1,23 @@
+{
+  "name": "student-register",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bookshelf": "^1.2.0",
+    "express": "^4.17.1",
+    "express-json-validator-middleware": "^2.1.1",
+    "express-validator": "^6.11.1",
+    "knex": "^0.95.6",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.12",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}

@@ -1,0 +1,66 @@
+{"message":"Server running at port 5000!!","level":"info"}
+{"message":{"courseName":"os"},"level":"info"}
+{"message":"[{\"t_id\":106,\"t_name\":\"emma\",\"course_name\":\"os\",\"id\":87}]","level":"info"}
+{"message":{"courseName":"os"},"level":"info"}
+{"message":{"courseName":"os"},"level":"info"}
+{"message":[{"t_id":106,"t_name":"emma","course_name":"os","id":87}],"level":"info"}
+{"message":{"courseName":"os"},"level":"info"}
+{"message":[{"t_id":106,"t_name":"emma","course_name":"os","id":87}],"level":"info"}
+{"message":{"courseName":"os"},"level":"info"}
+{"author":"pooja","level":"info","message":[{"t_id":106,"t_name":"emma","course_name":"os","id":87}]}
+{"message":{"courseName":"os"},"level":"info"}
+{"author":"pooja","level":"info","message":[{"t_id":106,"t_name":"emma","course_name":"os","id":87}]}
+{"message":{"courseName":"os"},"level":"info"}
+{"author":"pooja","level":"info","message":[{"t_id":106,"t_name":"emma","course_name":"os","id":87}]}
+{"message":{},"level":"info"}
+{"message":{},"level":"info"}
+{"message":{},"level":"info"}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":"Welcome"}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":"Welcome"}
+{"message":{},"level":"info"}
+{"message":{},"level":"info"}
+{"message":{},"level":"info"}
+{"message":{},"level":"info"}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":{"err":{"name":"JsonSchemaValidationError","validationErrors":{"body":[{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"courseName"},"message":"should have required property 'courseName'"}]}}}}
+{"message":{},"level":"info"}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":{"success":false,"err":{"name":"JsonSchemaValidationError","validationErrors":{"body":[{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"sId"},"message":"should have required property 'sId'"},{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"sName"},"message":"should have required property 'sName'"},{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"tId"},"message":"should have required property 'tId'"},{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"cName"},"message":"should have required property 'cName'"}]}}}}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":{"success":false,"err":{"name":"JsonSchemaValidationError","validationErrors":{"body":[{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"studentId"},"message":"should have required property 'studentId'"},{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"studentName"},"message":"should have required property 'studentName'"},{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"teacherId"},"message":"should have required property 'teacherId'"},{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"courseName"},"message":"should have required property 'courseName'"}]}}}}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":{"success":false,"err":{"name":"JsonSchemaValidationError","validationErrors":{"body":[{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"studentId"},"message":"should have required property 'studentId'"},{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"studentName"},"message":"should have required property 'studentName'"},{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"teacherId"},"message":"should have required property 'teacherId'"},{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"courseName"},"message":"should have required property 'courseName'"}]}}}}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":{"success":false,"err":{"name":"JsonSchemaValidationError","validationErrors":{"query":[{"keyword":"type","dataPath":".studentId","schemaPath":"#/properties/studentId/type","params":{"type":"number"},"message":"should be number"},{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"teacherId"},"message":"should have required property 'teacherId'"}]}}}}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":{"success":false,"err":{"name":"JsonSchemaValidationError","validationErrors":{"query":[{"keyword":"type","dataPath":".studentId","schemaPath":"#/properties/studentId/type","params":{"type":"number"},"message":"should be number"},{"keyword":"type","dataPath":".teacherId","schemaPath":"#/properties/teacherId/type","params":{"type":"number"},"message":"should be number"}]}}}}
+{"message":{"studentId":108,"studentName":"Thara","teacherId":101,"courseName":"fashion"},"level":"info"}
+{"author":"pooja","level":"info","message":{"message":"success"}}
+{"message":{"studentId":108,"courseName":"fashion","newCourse":"java basics"},"level":"info"}
+{"message":{"studentId":108,"courseName":"fashion","newCourse":"java basics"},"level":"info"}
+{"message":{"studentId":108,"courseName":"fashion","newCourse":"java basics"},"level":"info"}
+{"author":"pooja","level":"info","message":{"success":false,"err":{"name":"JsonSchemaValidationError","validationErrors":{"body":[{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"sId"},"message":"should have required property 'sId'"},{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"cName"},"message":"should have required property 'cName'"}]}}}}
+{"message":{"studentId":108,"courseName":"fashion","newCourse":"java basics"},"level":"info"}
+{"author":"pooja","level":"info","message":{"message":"success"}}
+{"message":{},"level":"info"}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":{"success":false,"err":{"name":"JsonSchemaValidationError","validationErrors":{"query":[{"keyword":"type","dataPath":".studentId","schemaPath":"#/properties/studentId/type","params":{"type":"number"},"message":"should be number"}]}}}}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":{"success":false,"err":{"name":"JsonSchemaValidationError","validationErrors":{"query":[{"keyword":"type","dataPath":".studentId","schemaPath":"#/properties/studentId/type","params":{"type":"number"},"message":"should be number"}]}}}}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":[{"s_id":108,"s_name":"Thara","t_id":101,"course_name":"java basics","id":74}]}
+{"message":{"studentId":108,"courseName":"java basics"},"level":"info"}
+{"author":"pooja","level":"info","message":{"success":false,"err":{"name":"JsonSchemaValidationError","validationErrors":{"body":[{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"sId"},"message":"should have required property 'sId'"},{"keyword":"required","dataPath":"","schemaPath":"#/required","params":{"missingProperty":"cName"},"message":"should have required property 'cName'"}]}}}}
+{"message":{"studentId":108,"courseName":"java basics"},"level":"info"}
+{"author":"pooja","level":"info","message":{"error":{}}}
+{"message":{"studentId":108,"courseName":"java basics"},"level":"info"}
+{"author":"pooja","level":"info","message":{"message":"success"}}
+{"message":{"teacherId":108,"teacherName":"Rebecka","courseName":"java"},"level":"info"}
+{"author":"pooja","level":"info","message":{"message":"success"}}
+{"message":{"teacherId":108,"teacherName":"Rebecka","courseName":"java"},"level":"info"}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":[{"t_id":105,"t_name":"pooja","course_name":"java","id":83},{"t_id":108,"t_name":"Rebecka","course_name":"java","id":88}]}
+{"message":{},"level":"info"}
+{"author":"pooja","level":"info","message":[{"t_id":105,"t_name":"pooja","course_name":"java","id":83},{"t_id":108,"t_name":"Rebecka","course_name":"java","id":88}]}
